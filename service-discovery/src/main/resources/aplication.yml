@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: service-diiscovery
+
+    Cloud:
+      config:
+        uri: http://localhost:8888
